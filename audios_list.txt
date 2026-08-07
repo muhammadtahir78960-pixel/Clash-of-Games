@@ -1,1 +1,22 @@
-
+click1.mp3
+defeat.ogg
+double.wav
+draw.ogg
+drop.mp3
+error.ogg
+gift.mp3
+login.mp3
+pass_cards.wav
+play_card.wav
+play_card1.mp3
+point.mp3
+sfx_lose.ogg
+shuffle.wav
+sound_hand_win.ogg
+sound_round_end.ogg
+submit_1.mp3
+trump reveal.mp3
+Unlock1.ogg
+Win.mp3
+win.ogg
+win2.mp3
