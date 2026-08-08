@@ -6,6 +6,8 @@ drop.mp3
 error.ogg
 gift.mp3
 login.mp3
+msg receved.mp3
+msg send.ogg
 pass_cards.wav
 play_card.wav
 play_card1.mp3
