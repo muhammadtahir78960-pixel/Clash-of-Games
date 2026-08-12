@@ -1,9 +1,15 @@
-🚀 Clash of Games - Major Update Alert! 🚀
-📅 Release Date: 8 August 2026
-​We are super excited to announce our latest update filled with amazing new features to make your gaming experience even better! 🎉🎮
-​✨ What’s New in This Update:
-​💬 Global Chat Feature:
-Connect with players from all around the world! 🌍 You can now enjoy 100% FREE global chat with absolutely no coins required. Talk, strategize, and make new friends seamlessly! 🗣️🔥
-​🔔 Developer Notifications:
-Never miss an important announcement again! 📬 Stay updated with the latest news, events, and maintenance alerts sent directly to you by the developers! ⚡
-​Thank you for playing Clash of Games! Have fun and happy gaming! 🏆🎮✨
+​🎮 What’s New in Clash of Games!
+Last update on: 12 August 2026
+​We are excited to bring you a brand-new update packed with new features, improvements, and fixes! Here is what’s new:
+​Accessible Ludo Experience for Everyone
+We are excited to introduce a fully accessible, audio-Ludo game built specifically to deliver an inclusive experience for blind and visually impaired players using screen readers (such as Jieshuo and TalkBack), alongside intuitive visual layouts.
+​Key Features & Highlights
+​Choose to play against 1, 2, or 3 AI-driven Robots in real-time matches.
+​Built-in Screen Reader & Accessibility Integration:
+​Smart Audio & Tactical Sound Feedback
+​💬 Global Chat Fix: Resolved the reaction issue in Global Chat for a smoother experience.
+​🎵 New Sound Effects: Added fresh and immersive sound effects across the game.
+​📖 Game Tutorials: Added a "Tutorial" button in the main game menu where you can easily find guides for every game.
+​⚙️ Advanced Audio Settings: Added toggles for Music On/Off, volume control sliders, and a custom audio feature in Settings.
+​🔥 Sneak Peek & What’s Next:
+Get ready! The first version of our upcoming Fighting Game will be releasing in the next update. More game modes for both the Fighting game and other games will be rolled out over time!
