@@ -6,8 +6,10 @@ data_manager.lua
 game29.lua
 gift_manager.lua
 init.lua
+ludo.lua
 main.lua
 online_manager.lua
 profile_manager.lua
 settings_manager.lua
+tutorial_manager.lua
 welcome_manager.lua
