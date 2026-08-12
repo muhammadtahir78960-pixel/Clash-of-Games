@@ -1,3 +1,21 @@
+bg_UI.ogg
+dice_roll1.mp3
+dice_roll2.mp3
+dice_roll3.mp3
+dice_roll4.mp3
+Extra_dice.mp3
+game_start.mp3
+ludo_fail.mp3
+move.aac
+my_turn.mp3
+opp_turn.mp3
+Pakistan National Anthem (Guitar Music) With Lyrics(MP3_320K).mp3
+threeSix.mp3
+tokens_go.mp3
+tokens_goback.mp3
+tokens_safe.mp3
+unlock.mp3
+win_game.mp3
 click1.mp3
 defeat.ogg
 double.wav
