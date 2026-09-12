@@ -1,15 +1,18 @@
+attack1.wav
+attack2.wav
+battle_music.mp3
+beep.mp3
 bg_UI.ogg
-dice_roll1.mp3
+boundry.ogg
+buzzer.mp3
+cash-counting-machine.mp3
 dice_roll2.mp3
-dice_roll3.mp3
-dice_roll4.mp3
 Extra_dice.mp3
 game_start.mp3
 ludo_fail.mp3
 move.aac
 my_turn.mp3
 opp_turn.mp3
-Pakistan National Anthem (Guitar Music) With Lyrics(MP3_320K).mp3
 threeSix.mp3
 tokens_go.mp3
 tokens_goback.mp3
@@ -17,26 +20,39 @@ tokens_safe.mp3
 unlock.mp3
 win_game.mp3
 click1.mp3
+death.mp3
 defeat.ogg
 double.wav
 draw.ogg
 drop.mp3
 error.ogg
+fight end.mp3
+fight start.mp3
 gift.mp3
+heartbeat-sound.mp3
+kick.mp3
+kick2.mp3
 login.mp3
+mis2.wav
 msg receved.mp3
 msg send.ogg
 pass_cards.wav
 play_card.wav
 play_card1.mp3
 point.mp3
+punch1.wav
+punch2.mp3
+purchase.mp3
 sfx_lose.ogg
+shout.wav
+shout2.mp3
 shuffle.wav
 sound_hand_win.ogg
 sound_round_end.ogg
 submit_1.mp3
 trump reveal.mp3
 Unlock1.ogg
+walking3.mp3
 Win.mp3
 win.ogg
 win2.mp3
