@@ -3,6 +3,7 @@ audio_manager.lua
 chat_manager.lua
 connect4.lua
 data_manager.lua
+fighting_game.lua
 game29.lua
 gift_manager.lua
 init.lua
@@ -10,6 +11,7 @@ ludo.lua
 main.lua
 online_manager.lua
 profile_manager.lua
+s_i_manager.lua
 settings_manager.lua
 tutorial_manager.lua
 welcome_manager.lua
