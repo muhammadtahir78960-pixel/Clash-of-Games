@@ -1,15 +1,13 @@
-​🎮 What’s New in Clash of Games!
-Last update on: 12 August 2026
-​We are excited to bring you a brand-new update packed with new features, improvements, and fixes! Here is what’s new:
-​Accessible Ludo Experience for Everyone
-We are excited to introduce a fully accessible, audio-Ludo game built specifically to deliver an inclusive experience for blind and visually impaired players using screen readers (such as Jieshuo and TalkBack), alongside intuitive visual layouts.
-​Key Features & Highlights
-​Choose to play against 1, 2, or 3 AI-driven Robots in real-time matches.
-​Built-in Screen Reader & Accessibility Integration:
-​Smart Audio & Tactical Sound Feedback
-​💬 Global Chat Fix: Resolved the reaction issue in Global Chat for a smoother experience.
-​🎵 New Sound Effects: Added fresh and immersive sound effects across the game.
-​📖 Game Tutorials: Added a "Tutorial" button in the main game menu where you can easily find guides for every game.
-​⚙️ Advanced Audio Settings: Added toggles for Music On/Off, volume control sliders, and a custom audio feature in Settings.
-​🔥 Sneak Peek & What’s Next:
-Get ready! The first version of our upcoming Fighting Game will be releasing in the next update. More game modes for both the Fighting game and other games will be rolled out over time!
+🎮 Clash of Games v1.3 - What's New! 🚀
+​📅 Last Update: September 12, 2026
+​✨ Exciting New Features & Improvements:
+⚔️ New Fighting Game: Introducing Shadow Combat for action-packed battles!
+​👨‍💻 Developed by: Tahir HT and Haleema Rana
+ℹ️ About Section: Be sure to explore the About section to discover more!
+​🔗 For More Details: Check out this tutorial!
+https://youtu.be/fN5-FgqCLhE?si=IFGFEcw_f4UFWEYI
+🛍️ New Shop: Buy amazing powers and boost your gameplay!
+🔊 TTS Audio Channel: Added a brand new Text-to-Speech audio channel!
+🎁 Gift System: Now you can send gifts directly to your friends!
+🎲 Bug Fix: Ludo dice sound has been successfully fixed!
+🌍 Global Chat: Enhanced and improved for a smoother chatting experience!
