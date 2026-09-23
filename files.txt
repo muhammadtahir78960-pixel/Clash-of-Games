@@ -10,6 +10,8 @@ init.lua
 ludo.lua
 main.lua
 online_manager.lua
+online_multiplayer_bridge.lua
+online_multiplayer_manager.lua
 profile_manager.lua
 s_i_manager.lua
 settings_manager.lua
