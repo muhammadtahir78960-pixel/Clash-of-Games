@@ -1,13 +1,16 @@
-🎮 Clash of Games v1.3 - What's New! 🚀
-​📅 Last Update: September 12, 2026
-​✨ Exciting New Features & Improvements:
-⚔️ New Fighting Game: Introducing Shadow Combat for action-packed battles!
-​👨‍💻 Developed by: Tahir HT and Haleema Rana
-ℹ️ About Section: Be sure to explore the About section to discover more!
-​🔗 For More Details: Check out this tutorial!
-https://youtu.be/fN5-FgqCLhE?si=IFGFEcw_f4UFWEYI
-🛍️ New Shop: Buy amazing powers and boost your gameplay!
-🔊 TTS Audio Channel: Added a brand new Text-to-Speech audio channel!
-🎁 Gift System: Now you can send gifts directly to your friends!
-🎲 Bug Fix: Ludo dice sound has been successfully fixed!
-🌍 Global Chat: Enhanced and improved for a smoother chatting experience!
+🚀 WHAT'S NEW IN CLASH OF GAMES v1.4! 🚀
+​📅 Release Date: Wednesday, September 23, 2026
+​We are super excited to bring you the biggest and most action-packed update yet! Clash of Games Version 1.4 is officially live, packed with massive new features, stability improvements, and essential bug fixes. Here is everything you need to know:
+​🌐 EXPANDED ONLINE MULTIPLAYER MODE! 🎮
+The wait is finally over! You can now step into the global arena and test your skills against real players from all over the world. Experience seamless real-time matchmaking, intense competition, and endless fun!
+​🃏 Board & Card Game Enthusiasts Unite:
+​Classic Board Games: Take your strategic thinking to the next level. Jump into multiplayer matches for Connect 4, and more! Play against international opponents, rank up, and prove who the true board game master is.
+​Intense Card Games: Whether you love high-stakes bidding or quick tactical card play, our online multiplayer card rooms are now fully live! Match up with card players worldwide, challenge your friends, and dominate the leaderboards.
+Online Multiplayer Developed by: Tahir HT, Haleema Rana & Jawad Ahmad
+​⚔️ FIGHTING GAME FIXES & IMPROVEMENTS 🥊
+​Inventory Bug Squashed: We fixed the critical issue in Fighting Game where inventory items were disappearing mysteriously. Your hard-earned items are now completely safe and secure in your inventory!
+​💬 GLOBAL CHAT & SOCIAL ENHANCEMENTS 🗣️
+​Enhanced Stability: Global Chat has been completely revamped for a much smoother, lag-free experience.
+​Export Chat Fix: Fixed the issue where exporting chat history would fail.
+​Increased Character Limit: Express yourself better! We have significantly bumped up the character limit per message so you can chat freely.
+​Thank you for playing Clash of Games! Update now, invite your friends, and dive into the ultimate multiplayer experience! 🔥🏆
