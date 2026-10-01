@@ -43,6 +43,9 @@ point.mp3
 punch1.wav
 punch2.mp3
 purchase.mp3
+record discard.mp3
+record start.mp3
+record stop.mp3
 sfx_lose.ogg
 shout.wav
 shout2.mp3
