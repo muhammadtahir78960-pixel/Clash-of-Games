@@ -1,5 +1,6 @@
 ads_manager.lua
 audio_manager.lua
+bt.lua
 chat_manager.lua
 connect4.lua
 data_manager.lua
