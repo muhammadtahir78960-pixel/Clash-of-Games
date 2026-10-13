@@ -1,1 +1,299 @@
-=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
+--data_manager.lua
+local data_manager = {}
+local Context = activity.getContext()
+local sharedPref = Context.getSharedPreferences("CARDS_CLUB_DATA", Context.MODE_PRIVATE)
+
+function data_manager.save(key, value)
+  local editor = sharedPref.edit()
+  if type(value) == "string" then
+    editor.putString(key, value)
+  elseif type(value) == "boolean" then
+    editor.putBoolean(key, value)
+  elseif type(value) == "number" then
+    editor.putString(key, tostring(value))
+  end
+  editor.apply()
+end
+
+function data_manager.load(key, defaultValue)
+  local allData = sharedPref.getAll()
+  if allData.containsKey(key) then
+    local val = allData.get(key)
+    if type(defaultValue) == "number" then
+      return tonumber(val) or defaultValue
+    end
+    return val
+  end
+  return defaultValue
+end
+
+function data_manager.getGameVersion()
+  return data_manager.load("game_version", "1.5.2")
+end
+
+function data_manager.setGameVersion(v)
+  data_manager.save("game_version", tostring(v))
+end
+
+function data_manager.get99Matches() 
+return data_manager.load("99_matches", 0) 
+end
+function data_manager.set99Matches(v)
+data_manager.save("99_matches", v) 
+end
+
+function data_manager.get99Firsts() 
+return data_manager.load("99_firsts", 0) 
+end
+
+function data_manager.set99Firsts(v)
+data_manager.save("99_firsts", v) 
+end
+
+function data_manager.get99Seconds() 
+return data_manager.load("99_seconds", 0) 
+end
+
+function data_manager.set99Seconds(v)
+data_manager.save("99_seconds", v) 
+end
+
+function data_manager.get99Hits() 
+  return data_manager.load("99_hits", 0) 
+end
+
+function data_manager.set99Hits(v)
+  data_manager.save("99_hits", v) 
+end
+
+function data_manager.get29Matches() 
+return data_manager.load("29_matches", 0) 
+end
+
+function data_manager.set29Matches(v)
+data_manager.save("29_matches", v) 
+end
+
+function data_manager.get29Wins() 
+return data_manager.load("29_wins", 0) 
+end
+
+function data_manager.set29Wins(v)
+data_manager.save("29_wins", v) 
+end
+
+function data_manager.get29Lost()
+return data_manager.load("29_lost", 0) 
+end
+
+function data_manager.set29Lost(v)
+data_manager.save("29_lost", v) 
+end
+
+function data_manager.getC4Matches() 
+  return data_manager.load("c4_matches", 0) 
+end
+
+function data_manager.setC4Matches(v)
+  data_manager.save("c4_matches", v) 
+end
+
+function data_manager.getC4Wins() 
+  return data_manager.load("c4_wins", 0) 
+end
+
+function data_manager.setC4Wins(v)
+  data_manager.save("c4_wins", v) 
+end
+
+function data_manager.getC4Losses() 
+  return data_manager.load("c4_losses", 0) 
+end
+
+function data_manager.setC4Losses(v)
+  data_manager.save("c4_losses", v) 
+end
+
+function data_manager.getC4Draws() 
+  return data_manager.load("c4_draws", 0) 
+end
+
+function data_manager.setC4Draws(v)
+  data_manager.save("c4_draws", v) 
+end
+
+function data_manager.getLudoMatches()
+  return data_manager.load("ludo_matches", 0)
+end
+function data_manager.setLudoMatches(v)
+  data_manager.save("ludo_matches", v)
+end
+
+function data_manager.getLudo1st()
+  return data_manager.load("ludo_1st", 0)
+end
+function data_manager.setLudo1st(v)
+  data_manager.save("ludo_1st", v)
+end
+
+function data_manager.getLudo2nd()
+  return data_manager.load("ludo_2nd", 0)
+end
+function data_manager.setLudo2nd(v)
+  data_manager.save("ludo_2nd", v)
+end
+
+function data_manager.getLudo3rd()
+  return data_manager.load("ludo_3rd", 0)
+end
+function data_manager.setLudo3rd(v)
+  data_manager.save("ludo_3rd", v)
+end
+
+function data_manager.getLudo4th()
+  return data_manager.load("ludo_4th", 0)
+end
+function data_manager.setLudo4th(v)
+  data_manager.save("ludo_4th", v)
+end
+
+function data_manager.getLudoKills()
+  return data_manager.load("ludo_kills", 0)
+end
+function data_manager.setLudoKills(v)
+  data_manager.save("ludo_kills", v)
+end
+
+function data_manager.getLudoEscorts()
+  return data_manager.load("ludo_escorts", 0)
+end
+function data_manager.setLudoEscorts(v)
+  data_manager.save("ludo_escorts", v)
+end
+
+function data_manager.getLudoDeaths()
+  return data_manager.load("ludo_deaths", 0)
+end
+function data_manager.setLudoDeaths(v)
+  data_manager.save("ludo_deaths", v)
+end
+
+function data_manager.getFightingMatches()
+  return data_manager.load("fighting_matches", 0)
+end
+
+function data_manager.setFightingMatches(v)
+  data_manager.save("fighting_matches", v)
+end
+
+function data_manager.getFightingWins()
+  return data_manager.load("fighting_wins", 0)
+end
+
+function data_manager.setFightingWins(v)
+  data_manager.save("fighting_wins", v)
+end
+
+function data_manager.getFightingLosses()
+  return data_manager.load("fighting_losses", 0)
+end
+
+function data_manager.setFightingLosses(v)
+  data_manager.save("fighting_losses", v)
+end
+
+function data_manager.getUsername()
+return data_manager.load("username", "Player")
+end
+
+function data_manager.setUsername(v)
+data_manager.save("username", v) 
+end
+
+function data_manager.getUserUUID()
+return data_manager.load("user_uuid", "")
+end
+
+function data_manager.setUserUUID(uuid)
+data_manager.save("user_uuid", uuid)
+end
+
+function data_manager.isFirstRun()
+return data_manager.load("is_first_run", true)
+end
+
+function data_manager.setFirstRun(v)
+data_manager.save("is_first_run", v)
+end
+
+function data_manager.getAudioVersion()
+return data_manager.load("downloaded_audio_version", "")
+end
+
+function data_manager.setAudioVersion(v)
+data_manager.save("downloaded_audio_version", v)
+end
+
+function data_manager.getMusic()
+ return data_manager.load("music_on", true) 
+end
+function data_manager.setMusic(v)
+ data_manager.save("music_on", v) 
+end
+
+
+function data_manager.getVibrate()
+return data_manager.load("vibrate_on", true)
+end
+
+function data_manager.setVibrate(v)
+data_manager.save("vibrate_on", v)
+end
+
+function data_manager.clearAll() 
+local currentAudioVer = data_manager.getAudioVersion()
+local savedUsername = data_manager.getUsername() or ""
+local savedUUID = data_manager.load("user_uuid", "")
+local passwordLinked = data_manager.load("is_password_set", "false")
+local savedProfileLinked = data_manager.load("is_profile_linked", "false")
+local savedProfileSync = data_manager.load("last_profile_sync", "")
+local savedAuthToken = data_manager.load("firebase_auth_token", "")
+local savedRefreshToken = data_manager.load("firebase_refresh_token", "")
+local savedTokenSaveTime = data_manager.load("token_save_time", "")
+local savedLocalId = data_manager.load("firebase_local_id", "")
+local savedAdWatchCount = data_manager.load("ad_watch_count", "0")
+local savedAdFirstWatchTime = data_manager.load("ad_first_watch_time", "0")
+local savedAdWatchTime = data_manager.load("ad_watch_time", "0")
+local savedDailyGiftCount = data_manager.load("daily_gift_count", "0")
+local savedLastGiftDate = data_manager.load("last_gift_date", "")
+local savedDailyVoiceCount = data_manager.load("daily_voice_count", "0")
+local savedVoiceLastDate = data_manager.load("voice_last_date", "")
+local gameKeys = {"29", "ludo", "fightingGame", "multiplayer"}
+local savedUnlockedData = {}
+for _, key in ipairs(gameKeys) do
+savedUnlockedData[key] = data_manager.load("unlocked_" .. key, "false")
+end
+  sharedPref.edit().clear().apply()
+for key, status in pairs(savedUnlockedData) do
+data_manager.save("unlocked_" .. key, status)
+end
+data_manager.save("ad_watch_count", savedAdWatchCount)
+data_manager.save("ad_first_watch_time", savedAdFirstWatchTime)
+data_manager.save("ad_watch_time", savedAdWatchTime)
+data_manager.save("daily_gift_count", savedDailyGiftCount)
+data_manager.save("last_gift_date", savedLastGiftDate)
+data_manager.save("daily_voice_count", savedDailyVoiceCount)
+data_manager.save("voice_last_date", savedVoiceLastDate)
+data_manager.save("firebase_local_id", savedLocalId)
+data_manager.save("token_save_time", savedTokenSaveTime)
+data_manager.save("firebase_refresh_token", savedRefreshToken)
+data_manager.save("firebase_auth_token", savedAuthToken)
+data_manager.save("last_profile_sync", savedProfileSync)
+data_manager.save("is_profile_linked", savedProfileLinked)
+data_manager.save("is_password_set", passwordLinked)
+data_manager.save("user_uuid", savedUUID)
+data_manager.setUsername(savedUsername)
+data_manager.setAudioVersion(currentAudioVer)
+end
+
+return data_manager
