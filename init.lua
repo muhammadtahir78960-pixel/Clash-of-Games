@@ -1,5 +1,5 @@
 appname="Clash of Games"
-appver="1.5"
+appver="1.6"
 appcode="1"
 appsdk="15"
 path_pattern=""
