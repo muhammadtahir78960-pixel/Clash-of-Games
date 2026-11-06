@@ -1,6 +1,5 @@
 ads_manager.lua
 audio_manager.lua
-bt.lua
 chat_manager.lua
 connect4.lua
 data_manager.lua
@@ -13,6 +12,8 @@ main.lua
 online_manager.lua
 online_multiplayer_bridge.lua
 online_multiplayer_manager.lua
+private_chat_room.lua
+private_chatt.lua
 profile_manager.lua
 s_i_manager.lua
 settings_manager.lua
