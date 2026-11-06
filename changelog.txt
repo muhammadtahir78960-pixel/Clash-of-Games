@@ -1,13 +1,14 @@
-🚀 What’s New in Clash of Games v1.5! 🚀
-​📅 Last Update: Thursday, October 01, 2026
-​Get ready for an absolute game-changer! We’ve packed this update with thrilling new features, major improvements, and unlimited fun! Here is everything you need to know:
-​⚔️ Online Multiplayer Just Got Epic!
-​The battlefield just expanded! Alongside your favorites, Ninety Nine and Connect 4, get ready for ultimate chaos! 🎮
-​💥 Introducing Shadow Combat! Step into the dark, unleash explosive combos, and face off against real opponents worldwide in intense, heart-pounding 1v1 action! Dominate the arena and prove who the true champion is! ⚔️🔥
-​🔓 Offline Mode – 100% FREE!
-​Great news for everyone! Offline Ninety Nine and Connect 4 are now completely FREE to play! 🎉
-​No unlocks, no restrictions, and no hidden barriers—just jump straight into the action anytime, anywhere! 🕹️
-​💬 Global Chat & Next-Level Voice Features!
-​Voice Chat & Voice Messages: Texting is old news! Now you can talk in real-time or drop voice notes directly in Global Chat to banter with rivals and coordinate with friends! 🎙️🔊
-​Major Bug Fixes: Smoother connection, zero hassle, and a super seamless chat experience! ⚡
-​🔥 Upgrade now, challenge your friends, and dominate the global leaderboards! 🔥
+🎮 Clash of Games v1.6 Update is Live! 🚀
+📅 Last Update On: [Friday, November, 06, 2026]
+Here is what is new and improved in this version:
+💬 Private Chat
+​Players can now send personal direct messages to each other alongside Global Chat!
+​⚠️ Note: Please keep in mind that this chat feature is not end-to-end encrypted.
+🌍 Global Chat - New Features & Improvements
+​⚡ Playback Speed: Added playback speed controls for voice messages.
+​🎯 Smart Scroll & Highlight: Clicking on a selected reply will now auto-scroll directly to the target message and highlight it.
+​↗️ Voice Message Sharing: Voice messages can now be shared easily.
+🐛 Bug Fixes
+​Fixed an issue where voice message replies were not showing the correct mention tag.
+🎬 Want more details? Watch the video here:
+https://youtu.be/JBWMynnby04?si=yOKU2tycwqUPkj_V
